@@ -9,6 +9,7 @@ Dans ce projet, nous réalisons une solution web pour l’association d'un labor
 ### Procédures et Etapes d'implémentations:
 >
 > - Etabissement du cahier de charges.
+> - Mise en place du sell sheet (Figma)
 > - Mise en place du diagramme d'activité.
 > - Mise en plcae du diagramme cas d'utilisation.
 > - Mise en place du diagramme de séquence
